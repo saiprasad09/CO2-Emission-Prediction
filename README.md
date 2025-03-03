@@ -1,4 +1,4 @@
-# 🚗 CO2 Emission Prediction – Group 4
+# 🚗 CO2 Emission Prediction 
 
 ## 📌 Project Overview  
 This project aims to predict **CO₂ emissions** based on vehicle specifications using **Machine Learning**. We explored multiple regression models and selected **Random Forest Regressor** as the best-performing model due to its accuracy and generalization ability.
@@ -20,6 +20,7 @@ This project aims to predict **CO₂ emissions** based on vehicle specifications
 │── 📄 co2_dep_group4.py              # Streamlit app for model deployment
 │── 📄 co2_emissions_prediction_Group4.ipynb  # Jupyter Notebook for model training
 │── 📄 co2_rf_model_c.pkl      # Trained Random Forest model
+│── 📄 co2_emissions (1)       # Dataset
 │── 📄 README.md                      # Project Documentation
 ```
 
